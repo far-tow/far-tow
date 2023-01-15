@@ -16,7 +16,7 @@ I am studying to become a Full Stack Java Developer <img src="https://media.giph
 
 - :zap: In my free time, I solve problems, Building application, learning about new technology and exploring it, I'm even a fine Woodworker and Photographer. 
 
-- :mailbox:How to reach me: send me a message here or email me at: fartow at gmail.com
+- :mailbox:How to reach me: send me a message here or email me: fartow at gmail.com
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,7 +26,9 @@ I am studying to become a Full Stack Java Developer <img src="https://media.giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
 </div>
 
 ### 👨‍🎓: Extending my knowledge with those languages. ### 
