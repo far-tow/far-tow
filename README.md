@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @far-tow (Farhad Towfighian)</h1>
+<h1 align="center">👋 Hi, I'am @far-tow (Farhad Towfighian)</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="300"/>
