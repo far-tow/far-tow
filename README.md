@@ -34,7 +34,7 @@ You can see some of my Woodworking objects here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
 </div>
 
-### 👨‍🎓: Extending my knowledge with those languages. ### 
+### 👨‍🎓: Extending my knowledge with these languages. ### 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
