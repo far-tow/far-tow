@@ -19,6 +19,10 @@ I am studying to become a Full Stack Java Developer <img src="https://media.giph
 You can see some of my Woodworking objects here:
 [fartow_woodworking](https://www.instagram.com/fartow_woodworking/)
 
+OR:
+
+Visit my site: [fartow.eu](https://www.fartow.eu/)
+
 - :mailbox:How to reach me: send me a message here or email me: fartow at gmail.com
 
 ---
