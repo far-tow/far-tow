@@ -8,7 +8,7 @@
 
 ---
 ### :man_technologist: ABOUT ME:
-I am studying to become a Full Stack Java Developer <img src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif" width="30">.
+I am a Full Stack Java Developer <img src="https://media.giphy.com/media/hX6zuSyNhaSiOukKUp/giphy.gif" width="30">.
 
 - :telescope: I'm living in Sweden and speak both Swedigh and English. 
 
