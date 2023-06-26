@@ -41,6 +41,7 @@ Visit my site: [fartow.eu](https://www.fartow.eu/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="Word Press" width="40" height="40"/>&nbsp;
 </div>
 
@@ -49,7 +50,6 @@ Visit my site: [fartow.eu](https://www.fartow.eu/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
 
